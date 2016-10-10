@@ -55,7 +55,7 @@ int bg1X, bg2X, fighter_X, fighter_Y, enemy_X, enemy_Y, bullet_X, bullet_Y, enem
 int gameState ;
 int enemyRemains, life ;
 
-const int BG_Speed = 1, FI_SPEED = 5, EN_SPEED = 3, BU_SPEED = 10, ENB_SPEED = 10 ;
+const int BG_Speed = 1, FI_SPEED = 5, EN_SPEED = 3, BU_SPEED = 10, ENB_SPEED = 12 ;
 const int SCOREBOARD_HEIGHT = 120 ;
 const int START = 0, OVER = 1, RUN = 2, WIN =3 ;
 
